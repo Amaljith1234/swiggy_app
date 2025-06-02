@@ -1,0 +1,2 @@
+D:/projects/swiggy_app/android/app/.cxx/Debug/3r3o1px4/x86_64/CMakeFiles/edit_cache.dir
+D:/projects/swiggy_app/android/app/.cxx/Debug/3r3o1px4/x86_64/CMakeFiles/rebuild_cache.dir
